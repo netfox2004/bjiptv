@@ -35,8 +35,6 @@ http://192.168.31.1:23234/rtp/239.3.1.153:8136
 http://192.168.31.1:23234/rtp/239.3.1.184:8001
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="央视",CCTV-17农业农村[高清]
 http://192.168.31.1:23234/rtp/239.3.1.151:8144
-#EXTINF:-1 tvg-id="7250" tvg-name="CCTV4K" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4K.png" group-title="央视",CCTV-4K 超清[超清]
-http://192.168.31.1:23234/rtp/239.3.1.245:2000
 #EXTINF:-1 tvg-id="18" tvg-name="北京卫视" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png" group-title="BRTV",BRTV北京卫视[高清]
 http://192.168.31.1:23234/rtp/239.3.1.241:8000
 #EXTINF:-1 tvg-id="19" tvg-name="BRTV新闻" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京新闻.png" group-title="BRTV",BRTV新闻[高清]
