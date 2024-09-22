@@ -121,9 +121,3 @@ http://192.168.31.199:7088/rtp/239.3.1.41:8140
 http://192.168.31.199:7088/rtp/239.3.1.44:8184
 #EXTINF:-1 tvg-id="60" group-title="卫视" tvg-name="内蒙古卫视" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/内蒙古卫视.png",内蒙古卫视
 http://192.168.31.199:7088/rtp/239.3.1.43:8176
-#EXTINF:-1 tvg-id="61" group-title="香港台" tvg-name="凤凰中文" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰卫视中文台.png",凤凰中文
-https://k44991.kylintv.tv/live/pxna_iphone.m3u8
-#EXTINF:-1 tvg-id="62" group-title="香港台" tvg-name="凤凰资讯" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰卫视资讯台.png",凤凰资讯
-https://k44991.kylintv.tv/live/pxinhd_iphone.m3u8
-#EXTINF:-1 tvg-id="63" group-title="香港台" tvg-name="香港卫视" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/香港卫视.png",香港卫视
-http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
