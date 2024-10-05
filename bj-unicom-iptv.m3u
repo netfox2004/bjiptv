@@ -43,9 +43,9 @@ http://192.168.31.1:23234/rtp/239.3.1.159:8000
 http://192.168.31.1:23234/rtp/239.3.1.242:8000
 #EXTINF:-1 tvg-id="21" tvg-name="BTV影视" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京影视.png" group-title="BRTV",BRTV影视[高清]
 http://192.168.31.1:23234/rtp/239.3.1.158:8000
-#EXTINF:-1 tvg-id="22" tvg-name="BTV体育休闲" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京体育休闲.png" group-title="BRTV",BRTV体育休闲[高清]
+#EXTINF:-1 tvg-id="22" tvg-name="BTV体育" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京体育休闲.png" group-title="BRTV",BRTV体育休闲[高清]
 http://192.168.31.1:23234/rtp/239.3.1.243:8000
-#EXTINF:-1 tvg-id="23" tvg-name="BTV纪实科教" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京纪实科教.png" group-title="BRTV",BRTV纪实科教[高清]
+#EXTINF:-1 tvg-id="23" tvg-name="BTV科教" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京纪实科教.png" group-title="BRTV",BRTV纪实科教[高清]
 http://192.168.31.1:23234/rtp/239.3.1.115:8000
 #EXTINF:-1 tvg-id="24" tvg-name="BTV财经" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京财经.png" group-title="BRTV",BRTV财经[高清]
 http://192.168.31.1:23234/rtp/239.3.1.116:8000
