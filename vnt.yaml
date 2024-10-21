@@ -1,7 +1,7 @@
 tap: false #是否使用tap网卡（默认使用tun网卡） 
 token: netfox2004 #组网token（各客户端使用相同的token才能组到同一个虚拟网里）
 device_id: 10 #当前设备id（如1 每个客户端id不能相同）
-name: nas1 #当前设备名称 （如k2p，用来识别哪个客户端）
+name: zlytv #当前设备名称 （如k2p，用来识别哪个客户端）
 stun_server:  #stun服务器（以下两行为默认stun服务器，免费stun服务器下方有介绍）
   - stun1.l.google.com:19302
   - stun2.l.google.com:19302
