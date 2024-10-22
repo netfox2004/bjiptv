@@ -121,6 +121,7 @@ http://192.168.31.199:7088/rtp/239.3.1.41:8140
 http://192.168.31.199:7088/rtp/239.3.1.44:8184
 #EXTINF:-1 group-title="卫视" tvg-name="内蒙古卫视" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/内蒙古卫视.png",内蒙古卫视
 http://192.168.31.199:7088/rtp/239.3.1.43:8176
+
 #EXTINF:-1 group-title="央视" tvg-name="CCTV1" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png",CCTV-1综合[高清]
 http://192.168.31.199:23234/rtp/239.3.1.129:8008
 #EXTINF:-1 group-title="央视" tvg-name="CCTV2" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png",CCTV-2财经[高清]
@@ -243,3 +244,116 @@ http://192.168.31.199:23234/rtp/239.3.1.41:8140
 http://192.168.31.199:23234/rtp/239.3.1.44:8184
 #EXTINF:-1 group-title="卫视" tvg-name="内蒙古卫视" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/内蒙古卫视.png",内蒙古卫视
 http://192.168.31.199:23234/rtp/239.3.1.43:8176
+
+
+
+#EXTINF:-1 group-title="央视" tvg-name="CCTV1" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png",CCTV-1综合[高清]
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226016/index.m3u8
+#EXTINF:-1 group-title="央视" tvg-name="CCTV1" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png",CCTV-1综合[高清]
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226559/index.m3u8
+#EXTINF:-1 group-title="央视" tvg-name="CCTV2" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png",CCTV-2财经[高清]
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225588/index.m3u8
+#EXTINF:-1 group-title="央视" tvg-name="CCTV3" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png",CCTV-3综艺[高清]
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226021/index.m3u8
+#EXTINF:-1 group-title="央视" tvg-name="CCTV4" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png",CCTV-4中文国际[高清]
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226428/index.m3u8
+#EXTINF:-1 group-title="央视" tvg-name="CCTV5" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png",CCTV-5体育[高清]
+http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226019/index.m3u8
+#EXTINF:-1 group-title="央视" tvg-name="CCTV5+" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png",CCTV5+[高清]
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225603/index.m3u8
+#EXTINF:-1 group-title="央视" tvg-name="CCTV6" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png",CCTV-6电影[高清]
+http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226010/index.m3u8
+#EXTINF:-1 group-title="央视" tvg-name="CCTV7" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png",CCTV-7国防军事[高清]
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225733/index.m3u8
+#EXTINF:-1 group-title="央视" tvg-name="CCTV8" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8.png",CCTV-8电视剧[高清]
+http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226008/index.m3u8
+#EXTINF:-1 group-title="央视" tvg-name="CCTV9" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png",CCTV-9纪录[高清]
+http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225734/index.m3u8
+#EXTINF:-1 group-title="央视" tvg-name="CCTV10" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png",CCTV-10科教[高清]
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226473/index.m3u8
+#EXTINF:-1 group-title="央视" tvg-name="CCTV11" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11.png",CCTV-11戏曲[高清]
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226565/index.m3u8
+#EXTINF:-1 group-title="央视" tvg-name="CCTV12" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png",CCTV-12社会与法[高清]
+http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225731/index.m3u8
+#EXTINF:-1 group-title="央视" tvg-name="CCTV13" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png",CCTV-13新闻[高清]
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226537/index.m3u8
+#EXTINF:-1 group-title="央视" tvg-name="CCTV14" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png",CCTV-14少儿[高清]
+http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225732/index.m3u8
+#EXTINF:-1 group-title="央视" tvg-name="CCTV15" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png",CCTV-15音乐[高清]
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226476/index.m3u8
+#EXTINF:-1 group-title="央视" tvg-name="CCTV16" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV16.png",CCTV-16奥林匹克[高清]
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226100/index.m3u8
+#EXTINF:-1 group-title="央视" tvg-name="CCTV17" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png",CCTV-17农业农村[高清]
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225765/index.m3u8
+#EXTINF:-1 group-title="BRTV" tvg-name="北京卫视" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png",BRTV北京卫视[高清]
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226450/index.m3u8
+#EXTINF:-1 group-title="BRTV" tvg-name="卡酷动画" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/卡酷少儿.png",BRTV卡酷少儿[高清]
+http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225654/index.m3u8
+#EXTINF:-1 group-title="卫视" tvg-name="湖南卫视" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南卫视.png",湖南卫视[高清]
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226307/index.m3u8
+#EXTINF:-1 group-title="卫视" tvg-name="浙江卫视" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png",浙江卫视[高清]
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226339/index.m3u8
+#EXTINF:-1 group-title="卫视" tvg-name="江苏卫视" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏卫视.png",江苏卫视[高清]
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226310/index.m3u8
+#EXTINF:-1 group-title="卫视" tvg-name="东方卫视" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/东方卫视.png",东方卫视[高清]
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226345/index.m3u8
+#EXTINF:-1 group-title="卫视" tvg-name="山东卫视" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/山东卫视.png",山东卫视[高清]
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226456/index.m3u8
+#EXTINF:-1 group-title="卫视" tvg-name="安徽卫视" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/安徽卫视.png",安徽卫视[高清]
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226391/index.m3u8
+#EXTINF:-1 group-title="卫视" tvg-name="湖北卫视" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖北卫视.png",湖北卫视[高清]
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226477/index.m3u8
+#EXTINF:-1 group-title="卫视" tvg-name="东南卫视" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/东南卫视.png",东南卫视[高清]
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226341/index.m3u8
+#EXTINF:-1 group-title="卫视" tvg-name="广东卫视" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/广东卫视.png",广东卫视[高清]
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226248/index.m3u8
+#EXTINF:-1 group-title="卫视" tvg-name="辽宁卫视" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/辽宁卫视.png",辽宁卫视[高清]
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226546/index.m3u8
+#EXTINF:-1 group-title="卫视" tvg-name="黑龙江卫视" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/黑龙江卫视.png",黑龙江卫视[高清]
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226327/index.m3u8
+#EXTINF:-1 group-title="卫视" tvg-name="深圳卫视" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/深圳卫视.png",深圳卫视[高清]
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226313/index.m3u8
+#EXTINF:-1 group-title="卫视" tvg-name="贵州卫视" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/贵州卫视.png",贵州卫视[高清]
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226474/index.m3u8
+#EXTINF:-1 group-title="卫视" tvg-name="天津卫视" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/天津卫视.png",天津卫视[高清]
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226459/index.m3u8
+#EXTINF:-1 group-title="卫视" tvg-name="河北卫视" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/河北卫视.png",河北卫视[高清]
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226406/index.m3u8
+#EXTINF:-1 group-title="卫视" tvg-name="重庆卫视" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/重庆卫视.png",重庆卫视[高清]
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226409/index.m3u8
+#EXTINF:-1 group-title="卫视" tvg-name="江西卫视" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/江西卫视.png",江西卫视[高清]
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226344/index.m3u8
+#EXTINF:-1 group-title="卫视" tvg-name="吉林卫视" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/吉林卫视.png",吉林卫视[高清]
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226397/index.m3u8
+#EXTINF:-1 group-title="卫视" tvg-name="海南卫视" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/海南卫视.png",海南卫视
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226465/index.m3u8
+#EXTINF:-1 group-title="卫视" tvg-name="云南卫视" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/云南卫视.png",云南卫视
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010119/1.m3u8
+#EXTINF:-1 group-title="卫视" tvg-name="兵团卫视" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/兵团卫视.png",兵团卫视
+http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226439/index.m3u8
+#EXTINF:-1 group-title="卫视" tvg-name="厦门卫视" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/厦门卫视.png",厦门卫视
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000005000266006/1.m3u8
+#EXTINF:-1 group-title="卫视" tvg-name="四川卫视" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/四川卫视.png",四川卫视
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226338/index.m3u8
+#EXTINF:-1 group-title="卫视" tvg-name="宁夏卫视" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/宁夏卫视.png",宁夏卫视
+http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/8/3221226454/index.m3u8
+#EXTINF:-1 group-title="卫视" tvg-name="山西卫视" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/山西卫视.png",山西卫视
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000021220/1.m3u8
+#EXTINF:-1 group-title="卫视" tvg-name="广西卫视" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/广西卫视.png",广西卫视
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226549/index.m3u8
+#EXTINF:-1 group-title="卫视" tvg-name="新疆卫视" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/新疆卫视.png",新疆卫视
+http://[2409:8087:1a0b:df::4002]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225628/index.m3u8
+#EXTINF:-1 group-title="卫视" tvg-name="河南卫视" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/河南卫视.png",河南卫视
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226480/index.m3u8
+#EXTINF:-1 group-title="卫视" tvg-name="甘肃卫视" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/甘肃卫视.png",甘肃卫视
+http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225633/index.m3u8
+#EXTINF:-1 group-title="卫视" tvg-name="西藏卫视" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/西藏卫视.png",西藏卫视
+http://[2409:8087:5e00:24::1e]:6060/000000001000/6603041244077933770/1.m3u8
+#EXTINF:-1 group-title="卫视" tvg-name="三沙卫视" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/三沙卫视.png",三沙卫视
+http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000117/1.m3u8
+#EXTINF:-1 group-title="卫视" tvg-name="陕西卫视" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/陕西卫视.png",陕西卫视
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000007495/1.m3u8
+#EXTINF:-1 group-title="卫视" tvg-name="青海卫视" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/青海卫视.png",青海卫视
+http://[2409:8087:1a0b:df::4002]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225628/index.m3u8
+#EXTINF:-1 group-title="卫视" tvg-name="内蒙古卫视" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/内蒙古卫视.png",内蒙古卫视
+https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880
