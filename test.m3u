@@ -1,96 +1,5 @@
 #EXTM3U
 #EXTINF:-1 group-title="央视" tvg-name="CCTV1" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png",CCTV-1综合[高清]
-http://192.168.31.199:7088/rtp/239.3.1.129:8008
-#EXTINF:-1 group-title="央视" tvg-name="CCTV2" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png",CCTV-2财经[高清]
-http://192.168.31.199:7088/rtp/239.3.1.60:8084
-#EXTINF:-1 group-title="央视" tvg-name="CCTV3" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png",CCTV-3综艺[高清]
-http://192.168.31.199:7088/rtp/239.3.1.172:8001
-#EXTINF:-1 group-title="央视" tvg-name="CCTV4" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png",CCTV-4中文国际[高清]
-http://192.168.31.199:7088/rtp/239.3.1.105:8092
-#EXTINF:-1 group-title="央视" tvg-name="CCTV5" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png",CCTV-5体育[高清]
-http://192.168.31.199:7088/rtp/239.3.1.173:8001
-#EXTINF:-1 group-title="央视" tvg-name="CCTV5+" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png",CCTV5+[高清]
-http://192.168.31.199:7088/rtp/239.3.1.130:8004
-#EXTINF:-1 group-title="央视" tvg-name="CCTV6" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png",CCTV-6电影[高清]
-http://192.168.31.199:7088/rtp/239.3.1.174:8001
-#EXTINF:-1 group-title="央视" tvg-name="CCTV7" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png",CCTV-7国防军事[高清]
-http://192.168.31.199:7088/rtp/239.3.1.61:8104
-#EXTINF:-1 group-title="央视" tvg-name="CCTV8" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8.png",CCTV-8电视剧[高清]
-http://192.168.31.199:7088/rtp/239.3.1.175:8001
-#EXTINF:-1 group-title="央视" tvg-name="CCTV9" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png",CCTV-9纪录[高清]
-http://192.168.31.199:7088/rtp/239.3.1.62:8112
-#EXTINF:-1 group-title="央视" tvg-name="CCTV10" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png",CCTV-10科教[高清]
-http://192.168.31.199:7088/rtp/239.3.1.63:8116
-#EXTINF:-1 group-title="央视" tvg-name="CCTV11" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11.png",CCTV-11戏曲[高清]
-http://192.168.31.199:7088/rtp/239.3.1.152:8120
-#EXTINF:-1 group-title="央视" tvg-name="CCTV12" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png",CCTV-12社会与法[高清]
-http://192.168.31.199:7088/rtp/239.3.1.64:8124
-#EXTINF:-1 group-title="央视" tvg-name="CCTV13" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png",CCTV-13新闻[高清]
-http://192.168.31.199:7088/rtp/239.3.1.124:8128
-#EXTINF:-1 group-title="央视" tvg-name="CCTV14" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png",CCTV-14少儿[高清]
-http://192.168.31.199:7088/rtp/239.3.1.65:8132
-#EXTINF:-1 group-title="央视" tvg-name="CCTV15" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png",CCTV-15音乐[高清]
-http://192.168.31.199:7088/rtp/239.3.1.153:8136
-#EXTINF:-1 group-title="央视" tvg-name="CCTV16" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV16.png",CCTV-16奥林匹克[高清]
-http://192.168.31.199:7088/rtp/239.3.1.184:8001
-#EXTINF:-1 group-title="央视" tvg-name="CCTV17" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png",CCTV-17农业农村[高清]
-http://192.168.31.199:7088/rtp/239.3.1.151:8144
-#EXTINF:-1 group-title="BRTV" tvg-name="北京卫视" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png",BRTV北京卫视[高清]
-http://192.168.31.199:7088/rtp/239.3.1.241:8000
-#EXTINF:-1 group-title="BRTV" tvg-name="BTV新闻" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京新闻.png",BRTV新闻[高清]
-http://192.168.31.199:7088/rtp/239.3.1.159:8000
-#EXTINF:-1 group-title="BRTV" tvg-name="BTV文艺" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京文艺.png",BRTV文艺[高清]
-http://192.168.31.199:7088/rtp/239.3.1.242:8000
-#EXTINF:-1 group-title="BRTV" tvg-name="BTV影视" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京影视.png",BRTV影视[高清]
-http://192.168.31.199:7088/rtp/239.3.1.158:8000
-#EXTINF:-1 group-title="BRTV" tvg-name="BTV体育" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京体育休闲.png",BRTV体育休闲[高清]
-http://192.168.31.199:7088/rtp/239.3.1.243:8000
-#EXTINF:-1 group-title="BRTV" tvg-name="BTV科教" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京纪实科教.png",BRTV纪实科教[高清]
-http://192.168.31.199:7088/rtp/239.3.1.115:8000
-#EXTINF:-1 group-title="BRTV" tvg-name="BTV财经" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京财经.png",BRTV财经[高清]
-http://192.168.31.199:7088/rtp/239.3.1.116:8000
-#EXTINF:-1 group-title="BRTV" tvg-name="BTV生活" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京生活.png",BRTV生活[高清]
-http://192.168.31.199:7088/rtp/239.3.1.117:8000
-#EXTINF:-1 group-title="BRTV" tvg-name="卡酷动画" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/卡酷少儿.png",BRTV卡酷少儿[高清]
-http://192.168.31.199:7088/rtp/239.3.1.189:8000
-#EXTINF:-1 group-title="卫视" tvg-name="湖南卫视" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南卫视.png",湖南卫视[高清]
-http://192.168.31.199:7088/rtp/239.3.1.132:8012
-#EXTINF:-1 group-title="卫视" tvg-name="浙江卫视" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png",浙江卫视[高清]
-http://192.168.31.199:7088/rtp/239.3.1.137:8036
-#EXTINF:-1 group-title="卫视" tvg-name="江苏卫视" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏卫视.png",江苏卫视[高清]
-http://192.168.31.199:7088/rtp/239.3.1.135:8028
-#EXTINF:-1 group-title="卫视" tvg-name="东方卫视" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/东方卫视.png",东方卫视[高清]
-http://192.168.31.199:7088/rtp/239.3.1.136:8032
-#EXTINF:-1 group-title="卫视" tvg-name="山东卫视" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/山东卫视.png",山东卫视[高清]
-http://192.168.31.199:7088/rtp/239.3.1.209:8052
-#EXTINF:-1 group-title="卫视" tvg-name="安徽卫视" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/安徽卫视.png",安徽卫视[高清]
-http://192.168.31.199:7088/rtp/239.3.1.211:8064
-#EXTINF:-1 group-title="卫视" tvg-name="湖北卫视" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖北卫视.png",湖北卫视[高清]
-http://192.168.31.199:7088/rtp/239.3.1.138:8044
-#EXTINF:-1 group-title="卫视" tvg-name="东南卫视" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/东南卫视.png",东南卫视[高清]
-http://192.168.31.199:7088/rtp/239.3.1.156:8148
-#EXTINF:-1 group-title="卫视" tvg-name="广东卫视" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/广东卫视.png",广东卫视[高清]
-http://192.168.31.199:7088/rtp/239.3.1.142:8048
-#EXTINF:-1 group-title="卫视" tvg-name="辽宁卫视" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/辽宁卫视.png",辽宁卫视[高清]
-http://192.168.31.199:7088/rtp/239.3.1.210:8056
-#EXTINF:-1 group-title="卫视" tvg-name="黑龙江卫视" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/黑龙江卫视.png",黑龙江卫视[高清]
-http://192.168.31.199:7088/rtp/239.3.1.133:8016
-#EXTINF:-1 group-title="卫视" tvg-name="深圳卫视" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/深圳卫视.png",深圳卫视[高清]
-http://192.168.31.199:7088/rtp/239.3.1.134:8020
-#EXTINF:-1 group-title="卫视" tvg-name="贵州卫视" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/贵州卫视.png",贵州卫视[高清]
-http://192.168.31.199:7088/rtp/239.3.1.149:8076
-#EXTINF:-1 group-title="卫视" tvg-name="天津卫视" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/天津卫视.png",天津卫视[高清]
-http://192.168.31.199:7088/rtp/239.3.1.141:1234
-#EXTINF:-1 group-title="卫视" tvg-name="河北卫视" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/河北卫视.png",河北卫视[高清]
-http://192.168.31.199:7088/rtp/239.3.1.148:8072
-#EXTINF:-1 group-title="卫视" tvg-name="重庆卫视" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/重庆卫视.png",重庆卫视[高清]
-http://192.168.31.199:7088/rtp/239.3.1.122:8160
-#EXTINF:-1 group-title="卫视" tvg-name="江西卫视" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/江西卫视.png",江西卫视[高清]
-http://192.168.31.199:7088/rtp/239.3.1.123:8164
-#EXTINF:-1 group-title="卫视" tvg-name="吉林卫视" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/吉林卫视.png",吉林卫视[高清]
-http://192.168.31.199:7088/rtp/239.3.1.240:8172
-
-#EXTINF:-1 group-title="央视" tvg-name="CCTV1" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png",CCTV-1综合[高清]
 http://192.168.31.199:23234/rtp/239.3.1.129:8008
 #EXTINF:-1 group-title="央视" tvg-name="CCTV2" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png",CCTV-2财经[高清]
 http://192.168.31.199:23234/rtp/239.3.1.60:8084
@@ -180,6 +89,190 @@ http://192.168.31.199:23234/rtp/239.3.1.122:8160
 http://192.168.31.199:23234/rtp/239.3.1.123:8164
 #EXTINF:-1 group-title="卫视" tvg-name="吉林卫视" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/吉林卫视.png",吉林卫视[高清]
 http://192.168.31.199:23234/rtp/239.3.1.240:8172
+
+#EXTINF:-1 group-title="央视" tvg-name="CCTV1" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png",CCTV-1综合[高清]
+http://192.168.31.199:10233/rtp/239.3.1.129:8008
+#EXTINF:-1 group-title="央视" tvg-name="CCTV2" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png",CCTV-2财经[高清]
+http://192.168.31.199:10233/rtp/239.3.1.60:8084
+#EXTINF:-1 group-title="央视" tvg-name="CCTV3" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png",CCTV-3综艺[高清]
+http://192.168.31.199:10233/rtp/239.3.1.172:8001
+#EXTINF:-1 group-title="央视" tvg-name="CCTV4" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png",CCTV-4中文国际[高清]
+http://192.168.31.199:10233/rtp/239.3.1.105:8092
+#EXTINF:-1 group-title="央视" tvg-name="CCTV5" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png",CCTV-5体育[高清]
+http://192.168.31.199:10233/rtp/239.3.1.173:8001
+#EXTINF:-1 group-title="央视" tvg-name="CCTV5+" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png",CCTV5+[高清]
+http://192.168.31.199:10233/rtp/239.3.1.130:8004
+#EXTINF:-1 group-title="央视" tvg-name="CCTV6" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png",CCTV-6电影[高清]
+http://192.168.31.199:10233/rtp/239.3.1.174:8001
+#EXTINF:-1 group-title="央视" tvg-name="CCTV7" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png",CCTV-7国防军事[高清]
+http://192.168.31.199:10233/rtp/239.3.1.61:8104
+#EXTINF:-1 group-title="央视" tvg-name="CCTV8" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8.png",CCTV-8电视剧[高清]
+http://192.168.31.199:10233/rtp/239.3.1.175:8001
+#EXTINF:-1 group-title="央视" tvg-name="CCTV9" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png",CCTV-9纪录[高清]
+http://192.168.31.199:10233/rtp/239.3.1.62:8112
+#EXTINF:-1 group-title="央视" tvg-name="CCTV10" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png",CCTV-10科教[高清]
+http://192.168.31.199:10233/rtp/239.3.1.63:8116
+#EXTINF:-1 group-title="央视" tvg-name="CCTV11" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11.png",CCTV-11戏曲[高清]
+http://192.168.31.199:10233/rtp/239.3.1.152:8120
+#EXTINF:-1 group-title="央视" tvg-name="CCTV12" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png",CCTV-12社会与法[高清]
+http://192.168.31.199:10233/rtp/239.3.1.64:8124
+#EXTINF:-1 group-title="央视" tvg-name="CCTV13" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png",CCTV-13新闻[高清]
+http://192.168.31.199:10233/rtp/239.3.1.124:8128
+#EXTINF:-1 group-title="央视" tvg-name="CCTV14" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png",CCTV-14少儿[高清]
+http://192.168.31.199:10233/rtp/239.3.1.65:8132
+#EXTINF:-1 group-title="央视" tvg-name="CCTV15" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png",CCTV-15音乐[高清]
+http://192.168.31.199:10233/rtp/239.3.1.153:8136
+#EXTINF:-1 group-title="央视" tvg-name="CCTV16" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV16.png",CCTV-16奥林匹克[高清]
+http://192.168.31.199:10233/rtp/239.3.1.184:8001
+#EXTINF:-1 group-title="央视" tvg-name="CCTV17" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png",CCTV-17农业农村[高清]
+http://192.168.31.199:10233/rtp/239.3.1.151:8144
+#EXTINF:-1 group-title="BRTV" tvg-name="北京卫视" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png",BRTV北京卫视[高清]
+http://192.168.31.199:10233/rtp/239.3.1.241:8000
+#EXTINF:-1 group-title="BRTV" tvg-name="BTV新闻" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京新闻.png",BRTV新闻[高清]
+http://192.168.31.199:10233/rtp/239.3.1.159:8000
+#EXTINF:-1 group-title="BRTV" tvg-name="BTV文艺" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京文艺.png",BRTV文艺[高清]
+http://192.168.31.199:10233/rtp/239.3.1.242:8000
+#EXTINF:-1 group-title="BRTV" tvg-name="BTV影视" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京影视.png",BRTV影视[高清]
+http://192.168.31.199:10233/rtp/239.3.1.158:8000
+#EXTINF:-1 group-title="BRTV" tvg-name="BTV体育" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京体育休闲.png",BRTV体育休闲[高清]
+http://192.168.31.199:10233/rtp/239.3.1.243:8000
+#EXTINF:-1 group-title="BRTV" tvg-name="BTV科教" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京纪实科教.png",BRTV纪实科教[高清]
+http://192.168.31.199:10233/rtp/239.3.1.115:8000
+#EXTINF:-1 group-title="BRTV" tvg-name="BTV财经" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京财经.png",BRTV财经[高清]
+http://192.168.31.199:10233/rtp/239.3.1.116:8000
+#EXTINF:-1 group-title="BRTV" tvg-name="BTV生活" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京生活.png",BRTV生活[高清]
+http://192.168.31.199:10233/rtp/239.3.1.117:8000
+#EXTINF:-1 group-title="BRTV" tvg-name="卡酷动画" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/卡酷少儿.png",BRTV卡酷少儿[高清]
+http://192.168.31.199:10233/rtp/239.3.1.189:8000
+#EXTINF:-1 group-title="卫视" tvg-name="湖南卫视" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南卫视.png",湖南卫视[高清]
+http://192.168.31.199:10233/rtp/239.3.1.132:8012
+#EXTINF:-1 group-title="卫视" tvg-name="浙江卫视" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png",浙江卫视[高清]
+http://192.168.31.199:10233/rtp/239.3.1.137:8036
+#EXTINF:-1 group-title="卫视" tvg-name="江苏卫视" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏卫视.png",江苏卫视[高清]
+http://192.168.31.199:10233/rtp/239.3.1.135:8028
+#EXTINF:-1 group-title="卫视" tvg-name="东方卫视" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/东方卫视.png",东方卫视[高清]
+http://192.168.31.199:10233/rtp/239.3.1.136:8032
+#EXTINF:-1 group-title="卫视" tvg-name="山东卫视" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/山东卫视.png",山东卫视[高清]
+http://192.168.31.199:10233/rtp/239.3.1.209:8052
+#EXTINF:-1 group-title="卫视" tvg-name="安徽卫视" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/安徽卫视.png",安徽卫视[高清]
+http://192.168.31.199:10233/rtp/239.3.1.211:8064
+#EXTINF:-1 group-title="卫视" tvg-name="湖北卫视" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖北卫视.png",湖北卫视[高清]
+http://192.168.31.199:10233/rtp/239.3.1.138:8044
+#EXTINF:-1 group-title="卫视" tvg-name="东南卫视" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/东南卫视.png",东南卫视[高清]
+http://192.168.31.199:10233/rtp/239.3.1.156:8148
+#EXTINF:-1 group-title="卫视" tvg-name="广东卫视" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/广东卫视.png",广东卫视[高清]
+http://192.168.31.199:10233/rtp/239.3.1.142:8048
+#EXTINF:-1 group-title="卫视" tvg-name="辽宁卫视" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/辽宁卫视.png",辽宁卫视[高清]
+http://192.168.31.199:10233/rtp/239.3.1.210:8056
+#EXTINF:-1 group-title="卫视" tvg-name="黑龙江卫视" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/黑龙江卫视.png",黑龙江卫视[高清]
+http://192.168.31.199:10233/rtp/239.3.1.133:8016
+#EXTINF:-1 group-title="卫视" tvg-name="深圳卫视" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/深圳卫视.png",深圳卫视[高清]
+http://192.168.31.199:10233/rtp/239.3.1.134:8020
+#EXTINF:-1 group-title="卫视" tvg-name="贵州卫视" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/贵州卫视.png",贵州卫视[高清]
+http://192.168.31.199:10233/rtp/239.3.1.149:8076
+#EXTINF:-1 group-title="卫视" tvg-name="天津卫视" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/天津卫视.png",天津卫视[高清]
+http://192.168.31.199:10233/rtp/239.3.1.141:1234
+#EXTINF:-1 group-title="卫视" tvg-name="河北卫视" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/河北卫视.png",河北卫视[高清]
+http://192.168.31.199:10233/rtp/239.3.1.148:8072
+#EXTINF:-1 group-title="卫视" tvg-name="重庆卫视" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/重庆卫视.png",重庆卫视[高清]
+http://192.168.31.199:10233/rtp/239.3.1.122:8160
+#EXTINF:-1 group-title="卫视" tvg-name="江西卫视" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/江西卫视.png",江西卫视[高清]
+http://192.168.31.199:10233/rtp/239.3.1.123:8164
+#EXTINF:-1 group-title="卫视" tvg-name="吉林卫视" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/吉林卫视.png",吉林卫视[高清]
+http://192.168.31.199:10233/rtp/239.3.1.240:8172
+
+#EXTINF:-1 group-title="央视" tvg-name="CCTV1" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png",CCTV-1综合[高清]
+http://192.168.31.199:10234/rtp/239.3.1.129:8008
+#EXTINF:-1 group-title="央视" tvg-name="CCTV2" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png",CCTV-2财经[高清]
+http://192.168.31.199:10234/rtp/239.3.1.60:8084
+#EXTINF:-1 group-title="央视" tvg-name="CCTV3" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png",CCTV-3综艺[高清]
+http://192.168.31.199:10234/rtp/239.3.1.172:8001
+#EXTINF:-1 group-title="央视" tvg-name="CCTV4" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png",CCTV-4中文国际[高清]
+http://192.168.31.199:10234/rtp/239.3.1.105:8092
+#EXTINF:-1 group-title="央视" tvg-name="CCTV5" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png",CCTV-5体育[高清]
+http://192.168.31.199:10234/rtp/239.3.1.173:8001
+#EXTINF:-1 group-title="央视" tvg-name="CCTV5+" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png",CCTV5+[高清]
+http://192.168.31.199:10234/rtp/239.3.1.130:8004
+#EXTINF:-1 group-title="央视" tvg-name="CCTV6" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png",CCTV-6电影[高清]
+http://192.168.31.199:10234/rtp/239.3.1.174:8001
+#EXTINF:-1 group-title="央视" tvg-name="CCTV7" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png",CCTV-7国防军事[高清]
+http://192.168.31.199:10234/rtp/239.3.1.61:8104
+#EXTINF:-1 group-title="央视" tvg-name="CCTV8" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8.png",CCTV-8电视剧[高清]
+http://192.168.31.199:10234/rtp/239.3.1.175:8001
+#EXTINF:-1 group-title="央视" tvg-name="CCTV9" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png",CCTV-9纪录[高清]
+http://192.168.31.199:10234/rtp/239.3.1.62:8112
+#EXTINF:-1 group-title="央视" tvg-name="CCTV10" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png",CCTV-10科教[高清]
+http://192.168.31.199:10234/rtp/239.3.1.63:8116
+#EXTINF:-1 group-title="央视" tvg-name="CCTV11" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11.png",CCTV-11戏曲[高清]
+http://192.168.31.199:10234/rtp/239.3.1.152:8120
+#EXTINF:-1 group-title="央视" tvg-name="CCTV12" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png",CCTV-12社会与法[高清]
+http://192.168.31.199:10234/rtp/239.3.1.64:8124
+#EXTINF:-1 group-title="央视" tvg-name="CCTV13" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png",CCTV-13新闻[高清]
+http://192.168.31.199:10234/rtp/239.3.1.124:8128
+#EXTINF:-1 group-title="央视" tvg-name="CCTV14" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png",CCTV-14少儿[高清]
+http://192.168.31.199:10234/rtp/239.3.1.65:8132
+#EXTINF:-1 group-title="央视" tvg-name="CCTV15" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png",CCTV-15音乐[高清]
+http://192.168.31.199:10234/rtp/239.3.1.153:8136
+#EXTINF:-1 group-title="央视" tvg-name="CCTV16" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV16.png",CCTV-16奥林匹克[高清]
+http://192.168.31.199:10234/rtp/239.3.1.184:8001
+#EXTINF:-1 group-title="央视" tvg-name="CCTV17" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png",CCTV-17农业农村[高清]
+http://192.168.31.199:10234/rtp/239.3.1.151:8144
+#EXTINF:-1 group-title="BRTV" tvg-name="北京卫视" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png",BRTV北京卫视[高清]
+http://192.168.31.199:10234/rtp/239.3.1.241:8000
+#EXTINF:-1 group-title="BRTV" tvg-name="BTV新闻" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京新闻.png",BRTV新闻[高清]
+http://192.168.31.199:10234/rtp/239.3.1.159:8000
+#EXTINF:-1 group-title="BRTV" tvg-name="BTV文艺" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京文艺.png",BRTV文艺[高清]
+http://192.168.31.199:10234/rtp/239.3.1.242:8000
+#EXTINF:-1 group-title="BRTV" tvg-name="BTV影视" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京影视.png",BRTV影视[高清]
+http://192.168.31.199:10234/rtp/239.3.1.158:8000
+#EXTINF:-1 group-title="BRTV" tvg-name="BTV体育" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京体育休闲.png",BRTV体育休闲[高清]
+http://192.168.31.199:10234/rtp/239.3.1.243:8000
+#EXTINF:-1 group-title="BRTV" tvg-name="BTV科教" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京纪实科教.png",BRTV纪实科教[高清]
+http://192.168.31.199:10234/rtp/239.3.1.115:8000
+#EXTINF:-1 group-title="BRTV" tvg-name="BTV财经" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京财经.png",BRTV财经[高清]
+http://192.168.31.199:10234/rtp/239.3.1.116:8000
+#EXTINF:-1 group-title="BRTV" tvg-name="BTV生活" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京生活.png",BRTV生活[高清]
+http://192.168.31.199:10234/rtp/239.3.1.117:8000
+#EXTINF:-1 group-title="BRTV" tvg-name="卡酷动画" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/卡酷少儿.png",BRTV卡酷少儿[高清]
+http://192.168.31.199:10234/rtp/239.3.1.189:8000
+#EXTINF:-1 group-title="卫视" tvg-name="湖南卫视" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南卫视.png",湖南卫视[高清]
+http://192.168.31.199:10234/rtp/239.3.1.132:8012
+#EXTINF:-1 group-title="卫视" tvg-name="浙江卫视" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png",浙江卫视[高清]
+http://192.168.31.199:10234/rtp/239.3.1.137:8036
+#EXTINF:-1 group-title="卫视" tvg-name="江苏卫视" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏卫视.png",江苏卫视[高清]
+http://192.168.31.199:10234/rtp/239.3.1.135:8028
+#EXTINF:-1 group-title="卫视" tvg-name="东方卫视" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/东方卫视.png",东方卫视[高清]
+http://192.168.31.199:10234/rtp/239.3.1.136:8032
+#EXTINF:-1 group-title="卫视" tvg-name="山东卫视" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/山东卫视.png",山东卫视[高清]
+http://192.168.31.199:10234/rtp/239.3.1.209:8052
+#EXTINF:-1 group-title="卫视" tvg-name="安徽卫视" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/安徽卫视.png",安徽卫视[高清]
+http://192.168.31.199:10234/rtp/239.3.1.211:8064
+#EXTINF:-1 group-title="卫视" tvg-name="湖北卫视" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖北卫视.png",湖北卫视[高清]
+http://192.168.31.199:10234/rtp/239.3.1.138:8044
+#EXTINF:-1 group-title="卫视" tvg-name="东南卫视" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/东南卫视.png",东南卫视[高清]
+http://192.168.31.199:10234/rtp/239.3.1.156:8148
+#EXTINF:-1 group-title="卫视" tvg-name="广东卫视" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/广东卫视.png",广东卫视[高清]
+http://192.168.31.199:10234/rtp/239.3.1.142:8048
+#EXTINF:-1 group-title="卫视" tvg-name="辽宁卫视" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/辽宁卫视.png",辽宁卫视[高清]
+http://192.168.31.199:10234/rtp/239.3.1.210:8056
+#EXTINF:-1 group-title="卫视" tvg-name="黑龙江卫视" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/黑龙江卫视.png",黑龙江卫视[高清]
+http://192.168.31.199:10234/rtp/239.3.1.133:8016
+#EXTINF:-1 group-title="卫视" tvg-name="深圳卫视" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/深圳卫视.png",深圳卫视[高清]
+http://192.168.31.199:10234/rtp/239.3.1.134:8020
+#EXTINF:-1 group-title="卫视" tvg-name="贵州卫视" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/贵州卫视.png",贵州卫视[高清]
+http://192.168.31.199:10234/rtp/239.3.1.149:8076
+#EXTINF:-1 group-title="卫视" tvg-name="天津卫视" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/天津卫视.png",天津卫视[高清]
+http://192.168.31.199:10234/rtp/239.3.1.141:1234
+#EXTINF:-1 group-title="卫视" tvg-name="河北卫视" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/河北卫视.png",河北卫视[高清]
+http://192.168.31.199:10234/rtp/239.3.1.148:8072
+#EXTINF:-1 group-title="卫视" tvg-name="重庆卫视" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/重庆卫视.png",重庆卫视[高清]
+http://192.168.31.199:10234/rtp/239.3.1.122:8160
+#EXTINF:-1 group-title="卫视" tvg-name="江西卫视" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/江西卫视.png",江西卫视[高清]
+http://192.168.31.199:10234/rtp/239.3.1.123:8164
+#EXTINF:-1 group-title="卫视" tvg-name="吉林卫视" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/吉林卫视.png",吉林卫视[高清]
+http://192.168.31.199:10234/rtp/239.3.1.240:8172
+
+
 
 #EXTINF:-1 group-title="央视" tvg-name="CCTV1" tvg-logo="http://gh.netfox2005.cf/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png",CCTV-1综合[高清]
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226016/index.m3u8
